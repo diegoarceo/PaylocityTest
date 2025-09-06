@@ -1,5 +1,5 @@
 
-name: Paymolcity
+name: Paylocity
 
 on:
  workflow_dispatch:
