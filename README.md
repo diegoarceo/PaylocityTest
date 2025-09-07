@@ -2,8 +2,11 @@
 Hi Paylocity Team, to run the workflow create you just need to follow the next steps.
 
 Click on Action Tab <img width="98" height="45" alt="image" src="https://github.com/user-attachments/assets/61783bc1-5387-45e3-94df-3f7ff773b68f" />
-:
-then on the left option panel select <img width="326" height="382" alt="image" src="https://github.com/user-attachments/assets/a5382d9b-b6ef-4dbe-9377-40e51f2d9466" />
+
+
+then on the left option panel select 
+
+<img width="326" height="382" alt="image" src="https://github.com/user-attachments/assets/a5382d9b-b6ef-4dbe-9377-40e51f2d9466" />
 
 
 then you will see dropdown with "Run Workflow" just need to click it 
